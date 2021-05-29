@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hola/Hi there
 
+Hola, mi nombre es Alvaro Vadillo. Me gustan las finanzas (inversiones) y soy entusiasta de la programación y la multidisciplinariedad. Linkedin: https://www.linkedin.com/in/alvarovadillozumaran/
+
+Hi, my name is Alvaro Vadillo. I am really into finance (asset management) and I am an enthusiastic of programming and multidisciplinary. You can find me on linkedin. 
 <!--
 **alvarovadilloz/alvarovadilloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
